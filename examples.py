@@ -1,19 +1,3 @@
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
 # x = 1
 # y = 2
 # z = 3
@@ -22,14 +6,18 @@
 #     print ("yes")
 # else:
 #     print ("no")
+
 # if not (x == z):
 #     print ("wow")
 # else:
 #     print ("no wow")
+
+
 # if (x < y) and (x > y):
 #     print ("yes 123")
 # else:
 #     print ("no 123")
+
 # i = int(input("i"))
 # if i < 15:
 #     print ("less")
