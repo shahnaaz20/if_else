@@ -1,5 +1,4 @@
 # water = int(input("water consuption"))
-#  if water <= 45 or water <= 75:
 # if water >= 45 and water <= 75:
 #     print ("475")
 # elif water >= 75 and water <=125:
